@@ -1,5 +1,5 @@
 <h1 align="center">
-English 247 Ứng dụng học tiếng Anh miễn phí cho người Việt
+English 
 </h1>
 
 <!-- TABLE OF CONTENTS -->
